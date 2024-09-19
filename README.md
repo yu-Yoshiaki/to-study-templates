@@ -35,3 +35,6 @@
 - 既存のテンプレートからリポジトリを分けて、一部を変えるもよし！
   - 例: 認証機能だけ新技術を入れたい。
     - Supabase Auth → Clerk にしたいなど。
+
+## Other
+- https://www.freepublicapis.com
